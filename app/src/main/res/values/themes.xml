@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OurApplication" parent="Theme.AppCompat">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/tosca</item>
+        <item name="colorPrimaryVariant">@color/tosca</item>
+        <item name="android:statusBarColor">@color/tosca</item>
+
+    </style>
+
+    <style name="Theme.OurApplication" parent="Base.Theme.OurApplication" />
+</resources>
